@@ -20,6 +20,7 @@
 
 [useLayoutEffect](./Hooks/useLayoutEffect.md)
 
-[useTransition](./Hooks/useTranstion.md)
+[useTransition](./Hooks/useTransition.md)
 
 [useDeferredValue](./Hooks/useDeferred.md)
+
