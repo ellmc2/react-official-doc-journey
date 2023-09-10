@@ -25,3 +25,6 @@
 [useDeferredValue](./Hooks/useDeferred.md)
 
 [useId](./Hooks/useId.md)
+
+[useImperativeHandle](./Hooks/useImperativeHandle.md)
+
